@@ -81,8 +81,5 @@ We had discussions with Peter who is a consultant helping the transformation Aca
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=58e29b5c-6c87-4acd-8a18-ac1a00e1b24a&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-This will be working progress but it would be good that we have something joined up.
-
-Throughout the life cycle of the project, there will be Support Lecture Presentations and update videos, which will prepare you for each of the phases/milestones.
 
 
