@@ -12,7 +12,7 @@ Nona McDuff OBE - Pro-Vice-Chancellor, Students and Teaching
 
 **DO NOT USE THE COLOUR RED** for text and graphics dominant in this colour
 
-[Download the guide to laying out your SOL Modules based upon the signed off pilot](TA_info_to_comp_staff_v2.pdf)
+[Download the guide to laying out your SOL Modules based upon the signed off pilot](downloads/TA_info_to_comp_staff_v2.pdf)
 
 
 ### TA Project Update
