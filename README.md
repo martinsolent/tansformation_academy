@@ -8,20 +8,22 @@
 
 Nona McDuff OBE - Pro-Vice-Chancellor, Students and Teaching
 
+[Link to the Transformation Academy SOL](https://learn.solent.ac.uk/course/view.php?id=37138&section=0)
+
 [Download the PDF guide to laying out your SOL Modules based upon the signed off pilot](downloads/TA_info_to_comp_staff_v2.pdf)
 
 ### Overview - Semester Two - 2021
 
-
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=79a431a9-006e-4dca-bf50-acad01168b26&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ### New Semester Two 2021 TA Project Update
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=a4c4a2c7-ac03-4bbd-98db-acad00c6b429&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-This is the new TA update for Semester Two 2021
+**Video 1 (Length - 13:14)** This is the new TA update for Semester Two 2021
 
 Find the New Computing TA Template for importing the first 5 tabs (sections) on [COM408](https://learn.solent.ac.uk/course/view.php?id=38041&section=0) 
-Self-enrol info: COM408_6645560712 start date 21/9/2021
+Self-enrol info: **COM408_6645560712 start date 21/9/2021**
 
 ### Old Semester 1 TA Project Update - (Still might be of use)
 
