@@ -2,11 +2,13 @@
 
 ![Library](TA_images/patrick-robert-doyle-OvXht_wi5Ew-unsplash.jpg)
 
+
 [Photo Creative Commons CC0 by Patrick Robert Doyle on Unsplash](https://unsplash.com/@teapowered?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+**The following information was pushed out to staff on the computing team during the pandemic to offer guidance for the delivery of content through the Transformation Academy project 2020-22**
 
 *"The Transformation Academy represents Solent's response to the need to deliver online learning that maintains our high standards. The Transformation Academy will provide you with the tools, resources and guidance you need to accomplish this effectively."*
 
-Nona McDuff OBE - Pro-Vice-Chancellor, Students and Teaching
 
 [Link to the Transformation Academy SOL](https://learn.solent.ac.uk/course/view.php?id=37138&section=0)
 
