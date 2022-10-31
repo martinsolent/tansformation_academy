@@ -12,7 +12,7 @@
 
 [Link to the Transformation Academy SOL](https://learn.solent.ac.uk/course/view.php?id=37138&section=0)
 
-[Download the PDF guide to laying out your SOL Modules based upon the signed off pilot](downloads/TA_info_to_comp_staff_v2.pdf)
+[Download the PDF guide to laying out your SOL Modules based upon the signed off pilot](downloads/TA_info_to_comp_staff_v4.pdf)
 
 ### Overview - Semester Two - 2021
 
